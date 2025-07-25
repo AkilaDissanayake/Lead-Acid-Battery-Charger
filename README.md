@@ -14,7 +14,13 @@ Design and implement a PWM-based constant current charger for a 12V lead acid ba
 - Circuit Components: Basic analog components (resistors, capacitors, transistors, diodes)  
 - Microcontroller Use: Only for user interface, not for core charging control  
 - PCB Design: Created using professional EDA tools and optimized for manufacturability  
-- Enclosure: Designed using CAD software for safe and ergonomic housing  
+- Enclosure: Designed using CAD software for safe and ergonomic housing
+
+  
+
+## Battery Charging Cycle
+
+<img width="978" height="816" alt="Image" src="https://github.com/user-attachments/assets/1fa63d4e-8a45-455f-9619-f49bed7ecba4" />
 
 ## Development Process
 
