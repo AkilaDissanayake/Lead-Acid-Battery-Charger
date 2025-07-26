@@ -21,6 +21,8 @@ Design and implement a PWM-based constant current charger for a 12V lead acid ba
 ## Battery Charging Cycle
 
 <img width="978" height="816" alt="Image" src="https://github.com/user-attachments/assets/1fa63d4e-8a45-455f-9619-f49bed7ecba4" />
+ **Simulation**
+ <img width="1918" height="430" alt="Image" src="https://github.com/user-attachments/assets/25121d59-9515-4514-84f8-ef997eededa2" />
 
 ## Development Process
 
