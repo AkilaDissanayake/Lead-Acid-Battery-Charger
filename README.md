@@ -31,6 +31,9 @@ Design and implement a PWM-based constant current charger for a 12V lead acid ba
 - PCB layout and fabrication  
 - Enclosure modeling and manufacturing  
 
+## Functional Block Diagram
+<img width="950" height="637" alt="led" src="https://github.com/user-attachments/assets/c051b998-3122-4400-8fd2-1d4448b2dc10" />
 ## Reference
 
 - Lead acid battery charging principles: [Battery University](https://batteryuniversity.com/learn/article/charging_the_lead_acid_battery)
+
